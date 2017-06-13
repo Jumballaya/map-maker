@@ -1,0 +1,25 @@
+
+.tile {
+  width: 4px;
+  height: 4px;
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.tile-water {
+  background-color: #5eb1bf;
+}
+
+.tile-land {
+  background-color: #96705B;
+}
+
+.tile-forest {
+  background-color: #315C2B;
+}
+
+.tile-lava {
+  background-color: red;
+}

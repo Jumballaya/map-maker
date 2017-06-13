@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 365.97 303.12">
+  <defs>
+    <style>
+      .a, .d {
+        fill: #8c6239;
+      }
+
+      .a, .b, .d, .e {
+        stroke: #42210b;
+      }
+
+      .a, .b, .c, .d, .e, .f {
+        stroke-miterlimit: 10;
+      }
+
+      .a, .b, .c {
+        stroke-width: 0.49px;
+      }
+
+      .b, .e {
+        fill: #603813;
+      }
+
+      .c, .f {
+        fill: #009245;
+        stroke: #22b573;
+      }
+
+      .d, .e, .f {
+        stroke-width: 0.59px;
+      }
+    </style>
+  </defs>
+  <title>trees</title>
+  <g>
+    <g>
+      <rect class="a" x="202.05" y="112.97" width="30.5" height="126.62"/>
+      <rect class="b" x="209.11" y="132.8" width="2.98" height="101.12"/>
+      <circle class="c" cx="290.84" cy="92.12" r="25.86"/>
+      <circle class="c" cx="248.95" cy="70.31" r="36.87"/>
+      <rect class="b" x="220.59" y="119.34" width="2.98" height="101.12"/>
+      <circle class="c" cx="217.3" cy="119.34" r="37.25"/>
+      <circle class="c" cx="188.15" cy="75.52" r="46.71"/>
+      <circle class="c" cx="218.46" cy="28.62" r="28.37"/>
+      <circle class="c" cx="168.27" cy="125.13" r="24.13"/>
+      <circle class="c" cx="267.48" cy="113.16" r="26.44"/>
+    </g>
+    <g>
+      <rect class="d" x="73.09" y="150.75" width="36.63" height="152.07"/>
+      <rect class="e" x="81.57" y="174.57" width="3.58" height="121.44"/>
+      <circle class="f" cx="179.72" cy="125.72" r="31.06"/>
+      <circle class="f" cx="129.42" cy="99.52" r="44.28"/>
+      <rect class="e" x="95.35" y="158.4" width="3.58" height="121.44"/>
+      <circle class="f" cx="91.4" cy="158.4" r="44.74"/>
+      <circle class="f" cx="56.4" cy="105.78" r="56.1"/>
+      <circle class="f" cx="92.79" cy="49.45" r="34.08"/>
+      <circle class="f" cx="32.52" cy="165.36" r="28.98"/>
+      <circle class="f" cx="151.67" cy="150.99" r="31.76"/>
+    </g>
+    <g>
+      <rect class="a" x="163.45" y="158.91" width="30.5" height="126.62"/>
+      <rect class="b" x="170.51" y="178.73" width="2.98" height="101.12"/>
+      <circle class="c" cx="252.23" cy="138.06" r="25.86"/>
+      <circle class="c" cx="210.35" cy="116.25" r="36.87"/>
+      <rect class="b" x="181.99" y="165.28" width="2.98" height="101.12"/>
+      <circle class="c" cx="178.69" cy="165.28" r="37.25"/>
+      <circle class="c" cx="149.55" cy="121.46" r="46.71"/>
+      <circle class="c" cx="179.85" cy="74.56" r="28.37"/>
+      <circle class="c" cx="129.67" cy="171.07" r="24.13"/>
+      <circle class="c" cx="228.88" cy="159.1" r="26.44"/>
+    </g>
+    <g>
+      <rect class="a" x="251.08" y="146.17" width="30.5" height="126.62"/>
+      <rect class="b" x="258.14" y="165.99" width="2.98" height="101.12"/>
+      <circle class="c" cx="339.86" cy="125.32" r="25.86"/>
+      <circle class="c" cx="297.98" cy="103.51" r="36.87"/>
+      <rect class="b" x="269.62" y="152.54" width="2.98" height="101.12"/>
+      <circle class="c" cx="266.32" cy="152.54" r="37.25"/>
+      <circle class="c" cx="237.18" cy="108.72" r="46.71"/>
+      <circle class="c" cx="267.48" cy="61.82" r="28.37"/>
+      <circle class="c" cx="217.3" cy="158.33" r="24.13"/>
+      <circle class="c" cx="316.51" cy="146.36" r="26.44"/>
+    </g>
+  </g>
+</svg>
